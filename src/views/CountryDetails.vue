@@ -3,9 +3,9 @@
 <div class="column is-8">
 <section class="section">
 
-<figure class="image is-128x128">
+<!-- <figure class="image is-128x128">
     <img :src="`https://flagpedia.net/data/flags/icon/72x54/${countryInfo.alpha2Code.toLowerCase()}.png`" alt="">
-</figure>
+</figure> -->
 
 <div class="title">{{countryInfo.name.common}}</div>
 
